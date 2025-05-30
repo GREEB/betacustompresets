@@ -6750,8 +6750,8 @@
     },
     {
       "fullPath": "presets/4.5/rates/goodvibesonly_basil.txt",
-      "hash": "c2f6b05d0bf2b2dfd0f4f0fb47c98d5bd64dfa0b56072c54afb9915cad9d5daf",
-      "title": "goodvibesonly_basil",
+      "hash": "7f3565e068aa13fdf438d7360ad38990b38b0eb52df652d3995f87826559bbb5",
+      "title": "goodvibesonly basil",
       "firmware_version": [
         "4.3",
         "4.4",
@@ -6775,8 +6775,8 @@
     },
     {
       "fullPath": "presets/4.5/rates/goodvibesonly_max.txt",
-      "hash": "d0165d02a1c120a426925078315d77e8d958c80f31e058818cad950068f463d7",
-      "title": "goodvibesonly_max",
+      "hash": "c0b526c4360e6923daea11d2ddc983a9ad19aec4359677a088962b4c803fbe78",
+      "title": "goodvibesonly max",
       "firmware_version": [
         "4.3",
         "4.4",

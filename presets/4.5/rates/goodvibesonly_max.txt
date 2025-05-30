@@ -1,4 +1,4 @@
-#$ TITLE: goodvibesonly_max
+#$ TITLE: goodvibesonly max
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
