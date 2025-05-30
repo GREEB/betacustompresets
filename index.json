@@ -6529,7 +6529,7 @@
     },
     {
       "fullPath": "presets/4.5/osd/goodvibes_osd_whoop_basil.txt",
-      "hash": "d08a948d90aaf672a5407000fc70c5c9b5118f96e189559bda22260f9ee00d9f",
+      "hash": "fa1ced70c1c7f50beb657b0d5929fbaa50111b0690196e2ccdd721616f089b91",
       "title": "goodvibes osd whoop basil",
       "firmware_version": [
         "4.5"
@@ -6551,7 +6551,7 @@
     },
     {
       "fullPath": "presets/4.5/osd/goodvibes_osd_whoop_max.txt",
-      "hash": "5a3bb26b4c2662aa615193f74917df0a08a30eb14014b3c17a522db843b3d728",
+      "hash": "aced02b1869563861916e5e6a1ed3ee7fea463d637fbd8ad85fa0ed06ad20b8e",
       "title": "goodvibes osd whoop max",
       "firmware_version": [
         "4.5"
