@@ -6528,9 +6528,31 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.5/osd/goodvibes_osd_whoop.txt",
-      "hash": "3099238c11da0402dabf9fc94f1d8fdbf598d2da59900ef96d211f0be54d3e0d",
-      "title": "goodvibes osd whoop",
+      "fullPath": "presets/4.5/osd/goodvibes_osd_whoop_basil.txt",
+      "hash": "d08a948d90aaf672a5407000fc70c5c9b5118f96e189559bda22260f9ee00d9f",
+      "title": "goodvibes osd whoop basil",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "OSD",
+        "TBS",
+        "TBS Core",
+        "GPS",
+        "navigation",
+        "longrange",
+        "mountain surfing",
+        "MtnSurf"
+      ],
+      "author": "bensonk",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/osd/goodvibes_osd_whoop_max.txt",
+      "hash": "5a3bb26b4c2662aa615193f74917df0a08a30eb14014b3c17a522db843b3d728",
+      "title": "goodvibes osd whoop max",
       "firmware_version": [
         "4.5"
       ],
