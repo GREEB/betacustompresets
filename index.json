@@ -175,6 +175,7 @@
       "Foxeer Harvey",
       "FPV_Cam",
       "FPVian",
+      "gaggi",
       "Garban",
       "IllusionFpv",
       "Ivan Efimov (Limon)",
@@ -6748,9 +6749,9 @@
       "priority": 10000
     },
     {
-      "fullPath": "presets/4.5/rates/goodvibesonly.txt",
-      "hash": "f03f6786c532b0fd9cca319d601a1d3d6a9e475ce831ce5b6f2341f295f593ee",
-      "title": "goodvibesonly",
+      "fullPath": "presets/4.5/rates/goodvibesonly_basil.txt",
+      "hash": "c2f6b05d0bf2b2dfd0f4f0fb47c98d5bd64dfa0b56072c54afb9915cad9d5daf",
+      "title": "goodvibesonly_basil",
       "firmware_version": [
         "4.3",
         "4.4",
@@ -6769,13 +6770,13 @@
         "upside down",
         "sugarK"
       ],
-      "author": "ZoeFPV",
+      "author": "gaggi",
       "priority": 10000
     },
     {
-      "fullPath": "presets/4.5/rates/goodvibesonly2.txt",
-      "hash": "d73f039ec24e5fceed5b52ee2de9a17bff9b4dacb531623e94268a9e86cd6e46",
-      "title": "goodvibesonly2",
+      "fullPath": "presets/4.5/rates/goodvibesonly_max.txt",
+      "hash": "d0165d02a1c120a426925078315d77e8d958c80f31e058818cad950068f463d7",
+      "title": "goodvibesonly_max",
       "firmware_version": [
         "4.3",
         "4.4",
@@ -6794,7 +6795,7 @@
         "upside down",
         "sugarK"
       ],
-      "author": "ZoeFPV",
+      "author": "gaggi",
       "priority": 10000
     },
     {
