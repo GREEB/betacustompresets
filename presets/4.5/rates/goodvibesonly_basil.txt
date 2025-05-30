@@ -1,4 +1,4 @@
-#$ TITLE: goodvibesonly
+#$ TITLE: goodvibesonly_basil
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
