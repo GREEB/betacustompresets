@@ -1,10 +1,17 @@
-#$ TITLE: goodvibes misc
+#$ TITLE: goodvibesonly misc
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
-#$ CATEGORY: OTHER
-#$ STATUS: COMMUNITY
-#$ KEYWORDS: misc
-#$ AUTHOR: goodvibes
+#$ CATEGORY: RATES
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: rates, freestyle, juicy, sbang, zoeFPV, zoe, 3d, upside down, sugarK
+#$ AUTHOR: gaggi
+
+#$ PARSER: MARKED
+
 #$ DESCRIPTION: misc goodvibes sets air to default and makes aux4 switch rateprofiles
+#$ DESCRIPTION:
+#$ WARNING: This rate preset will overwrite all the rate profiles 
 # aux
 aux 0 0 0 1700 2100 0 0
 aux 1 1 1 1700 2100 0 0

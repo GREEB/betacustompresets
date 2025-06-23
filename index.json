@@ -177,7 +177,6 @@
       "FPVian",
       "gaggi",
       "Garban",
-      "goodvibes",
       "IllusionFpv",
       "Ivan Efimov (Limon)",
       "Jakub Espandr (FlyCamCzech)",
@@ -442,7 +441,6 @@
       "meteor",
       "MGP",
       "MinChan",
-      "misc",
       "MM",
       "mode",
       "modes",
@@ -6666,18 +6664,28 @@
     },
     {
       "fullPath": "presets/4.5/other/misc.txt",
-      "hash": "04740d5241f5f11d379a8c1fa2020b8136f01ca83e5dcf2de08e8394838a8d4a",
-      "title": "goodvibes misc",
+      "hash": "ae408d3c76b1372cf33f820350c9ee02431d929fc7516ba08ee1b925c2761e39",
+      "title": "goodvibesonly misc",
       "firmware_version": [
+        "4.3",
+        "4.4",
         "4.5"
       ],
-      "category": "OTHER",
-      "status": "COMMUNITY",
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
       "keywords": [
-        "misc"
+        "rates",
+        "freestyle",
+        "juicy",
+        "sbang",
+        "zoeFPV",
+        "zoe",
+        "3d",
+        "upside down",
+        "sugarK"
       ],
-      "author": "goodvibes",
-      "priority": 0
+      "author": "gaggi",
+      "priority": 10000
     },
     {
       "fullPath": "presets/4.5/other/multigp_pro_spec.txt",
