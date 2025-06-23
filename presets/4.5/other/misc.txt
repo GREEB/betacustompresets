@@ -1,17 +1,62 @@
-#$ TITLE: goodvibesonly misc
-#$ FIRMWARE_VERSION: 4.3
-#$ FIRMWARE_VERSION: 4.4
+#$ TITLE: goodvibes-misc
 #$ FIRMWARE_VERSION: 4.5
-#$ CATEGORY: RATES
+#$ CATEGORY: OTHER
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: rates, freestyle, juicy, sbang, zoeFPV, zoe, 3d, upside down, sugarK
-#$ AUTHOR: gaggi
+#$ KEYWORDS: 6S, race, 100 euro fpv, 5 inch, 5", antonig, 2023, multigp, 100euro
+#$ AUTHOR: antonig
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: misc goodvibes sets air to default and makes aux4 switch rateprofiles
+#$ DESCRIPTION: The following parameters will be modified: FILTERS, PIDS incl. limits, FF, ACC/BARO/BB/telemetry, thrust/throttle/limit, UARTs, motor protocol/dshot, checks, dyn idle, rc smoothing, vtx table, osd, rates 
 #$ DESCRIPTION:
-#$ WARNING: This rate preset will overwrite all the rate profiles 
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION: 
+#$ DESCRIPTION: This is a 6S 5" racing tune created by antonig specifically for the 100Euro racing frame [www.100-euro-fpv.com] - a 6s 5" AUW=480gr quad with a stiff frame.
+#$ DESCRIPTION: 
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION: !CAUTION! This worked on various lower and mid-tier setups with various gear - the tune was installed at multiple race days on mutliple quads and all reported
+#$ DESCRIPTION: lower latency, better feel and faster lap times. USE AT YOUR OWN RISK - this tune is aggressive and will cause BURNING HOT motors on hot summer days.
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION: This tune is based on various previous tunes and conversations with top pilots and BetaFlight devs. Thanks to: 
+#$ DESCRIPTION: antonig_fpv, Atakan FPV, Burkan fpv, ctsnooze, KababFPV, KILLIAN_FPV, MARV_FPV, MCK FPV, SlyzeFPV, ToPe, UAVtech
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>**YOU HAVE TO USE RPM FILTERING WITH THIS TUNE!**
+#$ DESCRIPTION:
+#$ DESCRIPTION: ## Setup:
+#$ DESCRIPTION: - The 100 Euro frame
+#$ DESCRIPTION:     - 4.5mm custom carbon-fiber arms 0°,+45°,-45°
+#$ DESCRIPTION:     - 7075 CNCed mid-wiggle-plate and 7075 custom aluminum standoffs
+#$ DESCRIPTION:     - All M3 Gr5 Titanium bolts, except for stack bolts - Aluminum 6063
+#$ DESCRIPTION: - Five33 2207 2070KV / XNOVA 2207 2050kv
+#$ DESCRIPTION: - F722 with MPU6000
+#$ DESCRIPTION: - Foxeer Reaper F4 60A / Diatone Mamba Reactor 66 ESCs
+#$ DESCRIPTION: - Gemfan MCK 51466 V2 / Gemfan MCK 51433 V3
+#$ DESCRIPTION: - HDZero V2/V3 vTx and Nano 90cam
+#$ DESCRIPTION: - ELRS nano RXs
+#$ DESCRIPTION: - Genuine Panasonic 35V 470mf capacitor, 12AWG battery leads, genuine Amass XT60H
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION: ## BlHeli32 settings:
+#$ DESCRIPTION: - Motor Timing = 27 or 28
+#$ DESCRIPTION: - Demag compensation = OFF
+#$ DESCRIPTION: - PWM min = 48, PWM max = 48
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
+#$ DESCRIPTION: DISCALIMER:
+#$ DESCRIPTION: The information provided in these presets is for educational and entertainment purposes only.
+#$ DESCRIPTION: Betaflight makes no representations as to the safety or legality of the use of any information provided herein.
+#$ DESCRIPTION: End users assume all responsibility and liability for ensuring they comply with all relevant laws and regulations.
+#$ DESCRIPTION: Using these VTX tables may be in breach of your local RF laws.
+#$ DESCRIPTION: You as the end user must research and comply with your local regulations.
+#$ DESCRIPTION: In using these presets, the user assumes any and all liability associated with breaching local regulations.
+#$ DESCRIPTION: 
 # aux
 aux 0 0 0 1700 2100 0 0
 aux 1 1 1 1700 2100 0 0

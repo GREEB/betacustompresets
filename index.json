@@ -6664,28 +6664,26 @@
     },
     {
       "fullPath": "presets/4.5/other/misc.txt",
-      "hash": "ae408d3c76b1372cf33f820350c9ee02431d929fc7516ba08ee1b925c2761e39",
-      "title": "goodvibesonly misc",
+      "hash": "3afdfa3c1e4be9215a3bda7336e2122d4b21a2034074a4dd79ca63be403795a2",
+      "title": "goodvibes-misc",
       "firmware_version": [
-        "4.3",
-        "4.4",
         "4.5"
       ],
-      "category": "RATES",
+      "category": "OTHER",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "rates",
-        "freestyle",
-        "juicy",
-        "sbang",
-        "zoeFPV",
-        "zoe",
-        "3d",
-        "upside down",
-        "sugarK"
+        "6S",
+        "race",
+        "100 euro fpv",
+        "5 inch",
+        "5\"",
+        "antonig",
+        "2023",
+        "multigp",
+        "100euro"
       ],
-      "author": "gaggi",
-      "priority": 10000
+      "author": "antonig",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.5/other/multigp_pro_spec.txt",
