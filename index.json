@@ -177,6 +177,7 @@
       "FPVian",
       "gaggi",
       "Garban",
+      "goodvibes",
       "IllusionFpv",
       "Ivan Efimov (Limon)",
       "Jakub Espandr (FlyCamCzech)",
@@ -441,6 +442,7 @@
       "meteor",
       "MGP",
       "MinChan",
+      "misc",
       "MM",
       "mode",
       "modes",
@@ -6660,6 +6662,21 @@
         "nmea"
       ],
       "author": "KMfpv",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/misc.txt",
+      "hash": "04740d5241f5f11d379a8c1fa2020b8136f01ca83e5dcf2de08e8394838a8d4a",
+      "title": "goodvibes misc",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "COMMUNITY",
+      "keywords": [
+        "misc"
+      ],
+      "author": "goodvibes",
       "priority": 0
     },
     {
